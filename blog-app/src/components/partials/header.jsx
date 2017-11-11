@@ -6,7 +6,7 @@ class Header extends Component {
     return (
         <header>
 
-      <p id='title'>Into the Sweat</p>
+      <p id='title'>The Good Sweat</p>
         <nav>
 
 
