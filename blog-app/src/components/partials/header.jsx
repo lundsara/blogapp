@@ -10,14 +10,14 @@ class Header extends Component {
         <nav>
 
 
-       <div class="dropdown">
-  <span id="menu"><img class="menu" src="https://i.imgur.com/6jggiCc.png"/></span>
-  <div class="dropdown-content">
+       <div className="dropdown">
+  <span id="menu"><img className="menu" src="https://i.imgur.com/6jggiCc.png"/></span>
+  <div className="dropdown-content">
     <ul>
          <li><Link to="/beauty">Beauty</Link></li>
          <li><Link to="/sweat">Sweat</Link></li>
          <li><Link to="/nutrition">Health</Link></li>
-          <li><Link to="/about">About</Link></li>
+         <li><Link to="/about">About</Link></li>
 
        </ul>
   </div>

@@ -7,7 +7,7 @@ class Beauty extends Component {
       <div id="beautycontainer">
 
       <div id="beauty">
-<p> Browse Beauty News </p>
+        <p> Browse Beauty News </p>
 
 
     </div>

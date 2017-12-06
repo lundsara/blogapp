@@ -8,7 +8,7 @@ class About extends Component {
 
       <div id="about">
 
-      <p id="me"><span class="highlight">Who we are...</span><br/> We are<span class="highlight"> Into the Sweat.</span> We are obsessive about health, nutrition and beauty.</p>
+      <p id="me"><span className="highlight">Who we are...</span><br/> We are<span className="highlight"> Into the Sweat.</span> We are obsessive about health, nutrition and beauty.</p>
 
     </div>
     </div>
