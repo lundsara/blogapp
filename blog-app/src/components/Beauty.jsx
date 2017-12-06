@@ -8,8 +8,8 @@ class Beauty extends Component {
 
       <div id="nutrition">
 
-     <p> Beauty News </p>
-     <img class="left" src="https://images.contentful.com/p3w8f4svwgcg/5mS6pUMpsQW4KsMMaQ8qke/0bb4c7d319b608397a55ccc55d2c175e/flowers.jpg"/>
+
+     <div id="temporary"> The <br/> Good <br/> Sweat </div>
     </div>
     </div>
     );
