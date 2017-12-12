@@ -16,7 +16,7 @@ class App extends Component {
       <div className="App">
        <Router>
      <div>
-<Header/>
+      <Header/>
          <Switch>
           <Route exact path="/beauty" component={Beauty} />
           <Route exact path="/about" component={About} />
@@ -25,6 +25,8 @@ class App extends Component {
           <Route exact path="/nutrition" component={Nutrition} />
 
          </Switch>
+
+
         <Footer />
       </div>
     </Router>

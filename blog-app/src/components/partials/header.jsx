@@ -11,7 +11,7 @@ class Header extends Component {
 
 
        <div className="dropdown">
-  <span id="menu"><img className="menu" src="https://i.imgur.com/6jggiCc.png"/></span>
+  <span id="menu"><img className="menublock" alt="menu" src="https://i.imgur.com/6jggiCc.png"/></span>
   <div className="dropdown-content">
     <ul>
          <li><Link to="/beauty">Beauty</Link></li>
